@@ -1,0 +1,21 @@
+#vo
+{
+    border: 2px solid crimson;
+    padding: 10px 10px;
+    font-size: 25px;
+    background: crimson;
+    color: white;
+    text-decoration: none;
+    transition-duration: 2s;
+    border-radius: 5px;
+
+    font-style: normal;
+}
+#vo:hover
+{
+    background-color: whitesmoke;
+    color: crimson;
+}
+h1{
+    text-decoration: none;
+}
